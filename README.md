@@ -14,3 +14,6 @@ This project includes:
 
 ## Author
 Mohit Kumar
+
+#link of code implemented with output on gogle colab is below
+https://colab.research.google.com/drive/1bMM_8KI6akZO6DKiZKyT46goDsGxsjNV
